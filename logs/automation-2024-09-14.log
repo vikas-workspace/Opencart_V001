@@ -1,0 +1,62 @@
+14: 47: 07. 482 [main] %-51evel org.testng.TestNG - suiteXmlPath: "F:\Eclipse_workspace\Opencart_V001\crossbrowsertesting.xml"
+14: 47: 07. 790 [main] %-51evel org.testng.internal.Utils - [TestNG] Running:
+  F:\Eclipse_workspace\Opencart_V001\crossbrowsertesting.xml
+
+14: 47: 17. 769 [TestNG-tests-2] %-51evel com.testCases.TC001_AccountRegistrationTest - **** Starting the TC001_AccountRegistrationTest ****
+14: 47: 18. 109 [TestNG-tests-2] %-51evel com.testCases.TC001_AccountRegistrationTest - **** Click on MyAccount Link...
+14: 47: 20. 116 [TestNG-tests-2] %-51evel com.testCases.TC001_AccountRegistrationTest - **** Click on Register Link...
+14: 47: 20. 118 [TestNG-tests-2] %-51evel com.testCases.TC001_AccountRegistrationTest - **** Providing customer details...
+14: 47: 21. 536 [TestNG-tests-2] %-51evel com.testCases.TC001_AccountRegistrationTest - Validating expected message...
+14: 47: 21. 609 [TestNG-tests-2] %-51evel com.testCases.TC001_AccountRegistrationTest - **** finished the TC001_AccountRegistrationTest **** 
+14: 47: 22. 510 [TestNG-tests-1] %-51evel com.testCases.TC001_AccountRegistrationTest - **** Starting the TC001_AccountRegistrationTest ****
+14: 47: 22. 604 [TestNG-tests-1] %-51evel com.testCases.TC001_AccountRegistrationTest - **** Click on MyAccount Link...
+14: 47: 23. 201 [TestNG-tests-1] %-51evel com.testCases.TC001_AccountRegistrationTest - **** Click on Register Link...
+14: 47: 23. 217 [TestNG-tests-1] %-51evel com.testCases.TC001_AccountRegistrationTest - **** Providing customer details...
+14: 47: 24. 659 [TestNG-tests-1] %-51evel com.testCases.TC001_AccountRegistrationTest - Validating expected message...
+14: 47: 24. 753 [TestNG-tests-1] %-51evel com.testCases.TC001_AccountRegistrationTest - **** finished the TC001_AccountRegistrationTest **** 
+16: 05: 00. 839 [main] %-51evel org.testng.TestNG - suiteXmlPath: "F:\Eclipse_workspace\Opencart_V001\master.xml"
+16: 05: 01. 349 [main] %-51evel org.testng.internal.Utils - [TestNG] Running:
+  F:\Eclipse_workspace\Opencart_V001\master.xml
+
+16: 05: 15. 060 [main] %-51evel com.testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+16: 06: 24. 240 [main] %-51evel org.testng.TestNG - suiteXmlPath: "F:\Eclipse_workspace\Opencart_V001\master.xml"
+16: 06: 24. 667 [main] %-51evel org.testng.internal.Utils - [TestNG] Running:
+  F:\Eclipse_workspace\Opencart_V001\master.xml
+
+16: 06: 36. 156 [main] %-51evel com.testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+16: 07: 48. 917 [main] %-51evel org.testng.TestNG - suiteXmlPath: "F:\Eclipse_workspace\Opencart_V001\master.xml"
+16: 07: 49. 423 [main] %-51evel org.testng.internal.Utils - [TestNG] Running:
+  F:\Eclipse_workspace\Opencart_V001\master.xml
+
+16: 07: 55. 376 [main] %-51evel com.testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+16: 09: 37. 543 [main] %-51evel org.testng.TestNG - suiteXmlPath: "F:\Eclipse_workspace\Opencart_V001\master.xml"
+16: 09: 37. 882 [main] %-51evel org.testng.internal.Utils - [TestNG] Running:
+  F:\Eclipse_workspace\Opencart_V001\master.xml
+
+16: 09: 49. 738 [main] %-51evel com.testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+16: 14: 13. 112 [main] %-51evel org.testng.TestNG - suiteXmlPath: "F:\Eclipse_workspace\Opencart_V001\master.xml"
+16: 14: 13. 497 [main] %-51evel org.testng.internal.Utils - [TestNG] Running:
+  F:\Eclipse_workspace\Opencart_V001\master.xml
+
+16: 14: 18. 840 [main] %-51evel com.testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+16: 26: 07. 614 [main] %-51evel org.testng.TestNG - suiteXmlPath: "F:\Eclipse_workspace\Opencart_V001\master.xml"
+16: 26: 08. 085 [main] %-51evel org.testng.internal.Utils - [TestNG] Running:
+  F:\Eclipse_workspace\Opencart_V001\master.xml
+
+16: 26: 17. 911 [main] %-51evel com.testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+16: 26: 37. 832 [main] %-51evel org.testng.TestNG - suiteXmlPath: "F:\Eclipse_workspace\Opencart_V001\master.xml"
+16: 26: 38. 234 [main] %-51evel org.testng.internal.Utils - [TestNG] Running:
+  F:\Eclipse_workspace\Opencart_V001\master.xml
+
+16: 26: 49. 613 [main] %-51evel com.testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+16: 37: 05. 492 [main] %-51evel org.testng.TestNG - suiteXmlPath: "F:\Eclipse_workspace\Opencart_V001\master.xml"
+16: 37: 05. 898 [main] %-51evel org.testng.internal.Utils - [TestNG] Running:
+  F:\Eclipse_workspace\Opencart_V001\master.xml
+
+16: 37: 12. 863 [main] %-51evel com.testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+16: 37: 30. 255 [main] %-51evel org.testng.TestNG - suiteXmlPath: "F:\Eclipse_workspace\Opencart_V001\master.xml"
+16: 37: 30. 789 [main] %-51evel org.testng.internal.Utils - [TestNG] Running:
+  F:\Eclipse_workspace\Opencart_V001\master.xml
+
+16: 37: 37. 184 [main] %-51evel com.testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+16: 39: 25. 960 [main] %-51evel org.testng.TestNG - suiteXmlPath: "F:\Eclipse_workspace\Opencart_V001\master.xml"
